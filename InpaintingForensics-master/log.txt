@@ -1,0 +1,21 @@
+
+
+IID-Net, Total Params: 5781142
+Train dataset.npy with 1000
+Val  with 1000
+Test  with 12
+
+IID-Net, Total Params: 5781142
+Train dataset.npy with 1000
+Val  with 1000
+Test  with 12
+
+IID-Net, Total Params: 5781142
+Train train_dataset.npy with 1000
+Val val_dataset.npy with 1000
+Test  with 12
+
+IID-Net, Total Params: 5781142
+Train train_dataset.npy with 800
+Val val_dataset.npy with 200
+Test  with 12
